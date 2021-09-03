@@ -8,7 +8,6 @@ Both packages provide a state and a setter method for that state like useState h
 # Installation
 Using npm:
 ```shell
-$ npm i -g npm
 $ npm i use-simple-plus-persisted-state
 $ npm i use-simple-plus-persisted-state --force
 ```
