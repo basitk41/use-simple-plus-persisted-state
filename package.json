@@ -2,6 +2,7 @@
   "name": "custom_redux",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://basitk41.github.io/use-simple-plus-persisted-state/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
