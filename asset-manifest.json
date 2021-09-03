@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/use-simple-plus-persisted-state/static/css/main.a617e044.chunk.css",
+    "main.js": "/use-simple-plus-persisted-state/static/js/main.c19f657e.chunk.js",
+    "main.js.map": "/use-simple-plus-persisted-state/static/js/main.c19f657e.chunk.js.map",
+    "runtime-main.js": "/use-simple-plus-persisted-state/static/js/runtime-main.6bba1550.js",
+    "runtime-main.js.map": "/use-simple-plus-persisted-state/static/js/runtime-main.6bba1550.js.map",
+    "static/css/2.818011ed.chunk.css": "/use-simple-plus-persisted-state/static/css/2.818011ed.chunk.css",
+    "static/js/2.84197b98.chunk.js": "/use-simple-plus-persisted-state/static/js/2.84197b98.chunk.js",
+    "static/js/2.84197b98.chunk.js.map": "/use-simple-plus-persisted-state/static/js/2.84197b98.chunk.js.map",
+    "index.html": "/use-simple-plus-persisted-state/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/use-simple-plus-persisted-state/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/use-simple-plus-persisted-state/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.84197b98.chunk.js.LICENSE.txt": "/use-simple-plus-persisted-state/static/js/2.84197b98.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bba1550.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.84197b98.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c19f657e.chunk.js"
+  ]
+}
