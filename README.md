@@ -9,6 +9,7 @@ Both packages provide a state and a setter method for that state like useState h
 Using npm:
 ```shell
 $ npm i use-simple-plus-persisted-state
+OR
 $ npm i use-simple-plus-persisted-state --force
 ```
 You simply install it by "npm i use-simple-plus-persisted-state" if you are using npm and "yarn add use-simple-plus-persisted-state" if using yarn.<br />
