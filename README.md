@@ -158,3 +158,4 @@ export default Child2;
 The same state used in both Childern which used in App.js.<br />
 Initialization considered at top level like App.js.<br />
 # demo
+demo link is here: https://basitk41.github.io/use-simple-plus-persisted-state/index.html
